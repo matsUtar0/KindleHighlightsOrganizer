@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# KindleHighlightsOrganizer
-=======
 # Kindle Highlights Organizer
 
 Kindle Highlights Organizer は、Kindle のハイライト情報を章ごとに整理し、Markdown 形式で出力するデスクトップアプリケーションです。  
@@ -103,4 +100,3 @@ Kindle Highlights Organizer は、Kindle のハイライト情報を章ごとに
    python main.py
    ```
    ※ プルダウンで入力方式（OCR、CSV読み込み、手動入力）を選び、対応する目次情報の入力・読み込みを行います.
->>>>>>> c827fa9 (Initial commit: Add program files and README)
