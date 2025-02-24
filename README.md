@@ -19,7 +19,8 @@ Kindle Highlights Organizer は、Kindle のハイライト情報を章ごとに
   ※ 入力方式に応じたインターフェースが動的に切り替わります
 
 - **Kindle JSON 取り込み**  
-  Kindle メモの JSON ファイルを読み込み、各ハイライトのテキストおよび位置情報を抽出します.
+  事前にKindle メモを『Bookcision(https://readwise.io/bookcision)』で JSON ファイル形式でダウンロード。
+  JSONファイルを読み込み、各ハイライトのテキストおよび位置情報を抽出します.
 
 - **マッチング処理**  
   目次情報と Kindle ハイライトの位置情報を、以下のルールに従って照合し、各章に対応するハイライトを整理します:
